@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 32
+
+    defaultConfig {
+        applicationId "com.leos.icons"
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
+        versionCode 103
+        versionName '5.1.0'
+        multiDexEnabled true
+
+        // Naming app bundles
+        setArchivesBaseName("${parent.name}-v${versionName}")
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            debug {
+                applicationIdSuffix '.debug'
+            }
+        }
+    }
+
+
+    flavorDimensions "variant"
+    productFlavors {
+        dark {
+            dimension "variant"
+            resValue "string", "app_name", "LeOS-Icons"
+        }
+    }
+
+    sourceSets {
+        dark { res.srcDirs = ['src/darkFree/res/', 'src/dark/res'] }
+    }
+
+
+    compileOptions {
+        encoding = 'UTF-8'
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+dependencies {
+
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.github.Donnnno:candybar-foss:3.16.2'
+}

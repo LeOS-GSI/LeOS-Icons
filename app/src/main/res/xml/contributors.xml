@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <contributor
+        name="Onno van den Dungen"
+        contribution="Creator of Arcticons"
+        image="https://avatars.githubusercontent.com/u/31142286?s=400"
+        link="https://www.onnno.nl/" />
+    <contributor
+        name="Aman9das "
+        contribution="Ported Arcticons to the Candybar dashboard and Icon Creator."
+        image="https://avatars.githubusercontent.com/u/39594914?v=4"
+        link="https://github.com/Aman9das" />
+    <contributor
+        name="Joelchrono12 "
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/18448587?v=4"
+        link="https://joelchrono12.ml/" />
+    <contributor
+        name="Fanfu "
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/fanfu" />
+    <contributor
+        name="Aaronhatesregex"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/aaronhatesregex" />
+    <contributor
+        name="Greenpeteuk"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/greenpeteuk" />
+    <contributor
+        name="Quantenzitrone"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Quantenzitrone" />
+    <contributor
+        name="RuffaWuffa"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/RuffaWuffa" />
+    <contributor
+        name="0slav"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/0slav" />
+    <contributor
+        name="Ail1020"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Ail1020" />
+    <contributor
+        name="Klaviatur"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Klaviatur" />
+    <contributor
+        name="Saijin-Naib"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Saijin-Naib" />
+    <contributor
+        name="Lelio-Brun"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Lelio-Brun" />
+    <contributor
+        name="Arnavpurani"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/arnavpurani" />
+    <contributor
+        name="Renesat"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/renesat" />
+    <contributor
+        name="Dgcampbe"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/dgcampbe" />
+    <contributor
+        name="Rhodney"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Rhodney" />
+    <contributor
+        name="Chaptergy"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/chaptergy" />
+    <contributor
+        name="TBog"
+        contribution="Helped coding previous Arcticons versions"
+        image=""
+        link="https://github.com/TBog" />
+    <contributor
+        name="Chaptergy"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/chaptergy" />
+    <contributor
+        name="Stonewareslord"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/stonewareslord" />
+    <contributor
+        name="Kaiserdragon2"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Kaiserdragon2" />
+    <contributor
+        name="Amine250"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/amine250" />
+    <contributor
+        name="Chaptergy"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/chaptergy" />
+    <contributor
+        name="Livmackintosh"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/livmackintosh" />
+    <contributor
+        name="Fakegamer666"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/fakegamer666" />
+    <contributor
+        name="ObsidianChickenz"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/ObsidianChickenz" />
+    <contributor
+        name="Yuhuitech"
+        contribution="Coded better accessibility options in the old dashboard."
+        image=""
+        link="https://github.com/yuhuitech" />
+    <contributor
+        name="Batcastle"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Batcastle" />
+    <contributor
+        name="Gd4pL4E"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Gd4pL4E" />
+    <contributor
+        name="Hal47"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Hal47" />
+    <contributor
+        name="Gd4pL4E"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Gd4pL4E" />
+    <contributor
+        name="EinoHR"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/EinoHR" />
+    <contributor
+        name="Bydariogamer"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/bydariogamer" />
+    <contributor
+        name="ModdedGamers"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/bydariogamer" />
+    <contributor
+        name="Bellaston"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/bellaston" />
+    <contributor
+        name="Dunexus"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Dunexus" />
+    <contributor
+        name="ThomasTraineau"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/ThomasTraineau" />
+    <contributor
+        name="DannyGJdeJong"
+        contribution="Coded search function in the old dashboard."
+        image=""
+        link="https://github.com/DannyGJdeJong" />
+    <contributor
+        name="Dkanada"
+        contribution="Creator of Frost, the original icon pack Arcticons is based of."
+        image=""
+        link="https://github.com/dkanada" />
+    <contributor
+        name="Filip Kemuel"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/4260340?v=4"
+        link="https://github.com/filipkemuel" />
+    <contributor
+        name="Beanie0815"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/beanie0815" />
+    <contributor
+        name="Para-lyzed"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/73729354?v=4"
+        link="https://github.com/Para-lyzed" />
+    <contributor
+        name="Deniz Onmuş"
+        contribution="Icon creator."
+        image=""
+        link="https://www.denizonmus.com" />
+    <contributor
+        name="Konstantin T."
+        contribution="Icon creator and coder of f-droid_check.sh."
+        image="https://avatars.githubusercontent.com/u/89678894?v=4"
+        link="https://fosstodon.org/@konstantin" />
+    <contributor
+        name="tieu1991"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/10674585?v=4"
+        link="https://github.com/tieu1991" />
+    <contributor
+    	name="LovelyParanoia"
+	    contribution="Icon creator."
+	    image=""
+	    link="https://github.com/LovelyParanoia" />
+    <contributor
+    	name="EdwinRodger"
+	    contribution="Icon creator."
+	    image=""
+	    link="https://github.com/EdwinRodger" />
+    <contributor
+    	name="Baltevl"
+	    contribution="Icon creator."
+	    image=""
+	    link="https://github.com/baltevl" />
+    <contributor
+    	name="lunar-21"
+	    contribution="Icon creator."
+	    image="https://avatars.githubusercontent.com/u/103962677?v=4"
+	    link="https://github.com/lunar-21" />
+    <contributor
+        name="Adam"
+        contribution="Icon creator."
+        image="https://www.adamsdesk.com/assets/img/adamsdesk-logo.webp"
+        link="https://www.adamsdesk.com/" />
+    <contributor
+        name="Elijah P"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/ElijahElliotP" />
+	  <contributor
+        name="Lavin-tom"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/53207510?v=4"
+        link="https://github.com/Lavin-tom" />
+    <contributor
+        name="Rahul Patil"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/31767757?v=4"
+        link="https://github.com/rahulTPatil" />
+    <contributor
+        name="Frieder H"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/37292429?v=4"
+        link="https://github.com/frod0r/" />
+    <contributor
+        name="Jam"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/8106602?v=4"
+        link="https://github.com/jammo2k5/" />
+    <contributor
+        name="Calciume"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/108098268?v=4"
+        link="https://github.com/Calciume" />
+    <contributor
+        name="Shreyansh Shukla"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/95318208?"
+        link="https://github.com/shreyanshs31" />
+    <contributor
+        name="EndiM8"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/26939824?v=4"
+        link="https://github.com/endim8" />
+    <contributor
+        name="ZuperZeus"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/ZuperZeus" />
+    <contributor
+        name="KristhianX"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/KristhianX" />
+    <contributor
+        name="Toxcien"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/toxcien"
+        link="https://github.com/toxcien" />
+    <contributor
+        name="Gitro"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/108683123"
+        link="https://github.com/AbsurdUsername" />
+    <contributor
+        name="Maciej Klupp"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/maciej-klupp" />
+    <contributor
+        name="Duese"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/1257829?v=4"
+        link="https://github.com/duese" />
+    <contributor
+        name="Ronald Loyko"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/ronaldloyko"
+        link="https://ronald.ooo" />
+    <contributor
+        name="Kerioneesh"
+        contribution="Icon creator."
+        image=""
+        link="https://github.com/Kerioneesh" />
+    <contributor
+        name="Wari"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/89649458"
+        link="https://github.com/wwwwwwari" />
+    <contributor
+        name="Aliervo"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/19829645?v=4"
+        link="https://github.com/aliervo" />
+    <contributor
+	      name="ayecptn"
+	      contribution="Icon creator."
+	      image="https://avatars.githubusercontent.com/u/61555365?v=4"
+	      link="https://github.com/ayecptn" />
+    <contributor
+        name="Grant Moyer"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/6333127?v=4"
+        link="https://github.com/GrantMoyer" />
+    <contributor
+        name="Mrandyrew95"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/29306705?v=4"
+        link="https://github.com/Mrandyrew95" />
+    <contributor
+	      name="akp"
+	      contribution="Icon Creator."
+	      image=""
+	      link="https://github.com/akp37" />
+    <contributor
+        name="KempfCreative"
+        contribution="Icon creator."
+        image="https://avatars.githubusercontent.com/u/2704192"
+        link="https://github.com/KempfCreative" />
+    <contributor
+	      name="akp"
+	      contribution="Icon Creator."
+	      image=""
+	      link="https://github.com/akp37" />
+    <contributor
+        name="Nicolai Weitkemper"
+        contribution="Icon Creator."
+        image=""
+        link="https://github.com/NicoWeio" />
+    <contributor
+	      name="Tadas32"
+	      contribution="Icon Creator."
+	      image=""
+	      link="https://github.com/Tadas32" />
+    <contributor
+	      name="rmpj5"
+	      contribution="Icon Creator."
+	      image=""
+	      link="https://github.com/rmpj5" />
+    <contributor
+	      name="Aspwil"
+	      contribution="Icon Creator."
+	      image="https://avatars.githubusercontent.com/u/65490493"
+	      link="https://github.com/aspwil" />
+    <contributor
+	      name="bbbhltz"
+	      contribution="Icon Creator."
+	      image="https://avatars.githubusercontent.com/u/12626746"
+	      link="https://github.com/bbbhltz" />
+    <contributor
+          name="zykure"
+          contribution="Icon Creator."
+          image="https://avatars.githubusercontent.com/u/54305315"
+          link="https://github.com/zykure" />
+    <contributor
+        name="Sunny"
+        contribution="Icon creator."
+        image="https://codeberg.org/avatars/444473274ab9f66bc5a1afdf0630bcd9"
+        link="https://codeberg.org/sun" />
+     <contributor       
+          name="ct"
+          contribution="Icon Creator."
+          image=""
+          link="https://github.com/its-me-ct" />
+    <contributor
+          name="bucar"
+          contribution="Icon creator"
+          image="https://avatars.githubusercontent.com/u/68961889?v=4"
+          link="https://github.com/gbucar" />
+</resources>
