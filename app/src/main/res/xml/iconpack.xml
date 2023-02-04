@@ -848,6 +848,7 @@
 	    <item>charmap</item>
 	    <item>chase</item>
 	    <item>chatcraft</item>
+	    <item>chatgpt</item>
 	    <item>checkers</item>
 	    <item>checkudvej</item>
 	    <item>cheetay</item>
@@ -1346,6 +1347,7 @@
 	    <item>easy_watermark</item>
 	    <item>ebarimt</item>
 	    <item>ebay</item>
+	    <item>ebay_kleinanzeigen</item>
 	    <item>ebbanking</item>
 	    <item>ebobirthday</item>
 	    <item>eboks</item>
@@ -1403,6 +1405,8 @@
 	    <item>eset_payment_protection</item>
 	    <item>eset_security</item>
 	    <item>esewa</item>
+	    <item>esim</item>
+	    <item>esimm</item>
 	    <item>esis</item>
 	    <item>espaol</item>
 	    <item>espeak</item>
@@ -2160,6 +2164,7 @@
 	    <item>investing</item>
 	    <item>inviziblepro</item>
 	    <item>io</item>
+	    <item>iona</item>
 	    <item>ipfslite</item>
 	    <item>iplus</item>
 	    <item>ipmiview</item>
@@ -2417,6 +2422,17 @@
 	    <item>lens</item>
 	    <item>leo</item>
 	    <item>leon_urlcleaner</item>
+	    <item>leosdroid</item>
+	    <item>leos_camera</item>
+	    <item>leos_chatgpt</item>
+	    <item>leos_delta</item>
+	    <item>leos_duolingo</item>
+	    <item>leos_files</item>
+	    <item>leos_gallery</item>
+	    <item>leos_matrix</item>
+	    <item>leos_messenger</item>
+	    <item>leos_music</item>
+	    <item>leos_untappd</item>
 	    <item>lespas</item>
 	    <item>lesserpad</item>
 	    <item>lesspass</item>
@@ -3285,6 +3301,7 @@
 	    <item>opencontacts</item>
 	    <item>opencvmanager</item>
 	    <item>opendocument_reader</item>
+	    <item>openeuicc</item>
 	    <item>openflashlight</item>
 	    <item>openfoodfacts</item>
 	    <item>openhab</item>
@@ -3654,6 +3671,7 @@
 	    <item>proofmode</item>
 	    <item>proshot</item>
 	    <item>proton</item>
+	    <item>protonmail</item>
 	    <item>protonvideocompressor</item>
 	    <item>proton_calendar</item>
 	    <item>proton_drive</item>
@@ -3694,6 +3712,7 @@
 	    <item>qq_music</item>
 	    <item>qr</item>
 	    <item>qrforkeepass</item>
+	    <item>qrscanner</item>
 	    <item>qtranslate</item>
 	    <item>quakedroid</item>
 	    <item>quasseldroid</item>
@@ -4080,6 +4099,8 @@
 	    <item>simpletextcrypt</item>
 	    <item>simpletexteditor</item>
 	    <item>simplethankyou</item>
+	    <item>simpletranslate</item>
+	    <item>simplevoicerecorder</item>
 	    <item>simpleweather</item>
 	    <item>simplex</item>
 	    <item>simple_clipboard_editor</item>
@@ -4092,6 +4113,7 @@
 	    <item>simplyplural</item>
 	    <item>simplytranslate</item>
 	    <item>simplytranslatemobile</item>
+	    <item>simtoolkit</item>
 	    <item>sipnetic</item>
 	    <item>siriusxm</item>
 	    <item>sj</item>
@@ -4531,6 +4553,7 @@
 	    <item>tinytraveltracker</item>
 	    <item>tiny_planet_fx_pro</item>
 	    <item>tisseo</item>
+	    <item>titaniumbackup</item>
 	    <item>tk</item>
 	    <item>tkcompanionapp</item>
 	    <item>tlajoapp</item>

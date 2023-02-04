@@ -2,4 +2,14 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
+	<item drawable="ebay" />
+	<item drawable="leos_camera" />
+	<item drawable="leos_chatgpt" />
+	<item drawable="leos_duolingo" />
+	<item drawable="leos_gallery" />
+	<item drawable="leos_delta" />
+	<item drawable="leos_files" />
+	<item drawable="leos_matrix" />
+	<item drawable="leos_music" />
+	<item drawable="leos_untappd" />
 </resources>

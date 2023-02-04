@@ -983,6 +983,7 @@
 	<item drawable="charmap" />
 	<item drawable="chase" />
 	<item drawable="chatcraft" />
+	<item drawable="chatgpt" />
 	<item drawable="checkers" />
 	<item drawable="checkudvej" />
 	<item drawable="cheetay" />
@@ -1485,6 +1486,7 @@
 	<item drawable="easyxkcd" />
 	<item drawable="ebarimt" />
 	<item drawable="ebay" />
+	<item drawable="ebay_kleinanzeigen" />
 	<item drawable="ebbanking" />
 	<item drawable="ebobirthday" />
 	<item drawable="eboks" />
@@ -1542,6 +1544,8 @@
 	<item drawable="eset_payment_protection" />
 	<item drawable="eset_security" />
 	<item drawable="esewa" />
+	<item drawable="esim" />
+	<item drawable="esimm" />
 	<item drawable="esis" />
 	<item drawable="espaol" />
 	<item drawable="espeak" />
@@ -2291,6 +2295,7 @@
 	<item drawable="investing" />
 	<item drawable="inviziblepro" />
 	<item drawable="io" />
+	<item drawable="iona" />
 	<item drawable="ip_tools" />
 	<item drawable="ip_webcam" />
 	<item drawable="ipfslite" />
@@ -2554,6 +2559,17 @@
 	<item drawable="lens" />
 	<item drawable="leo" />
 	<item drawable="leon_urlcleaner" />
+	<item drawable="leos_camera" />
+	<item drawable="leos_chatgpt" />
+	<item drawable="leos_delta" />
+	<item drawable="leos_duolingo" />
+	<item drawable="leos_files" />
+	<item drawable="leos_gallery" />
+	<item drawable="leos_matrix" />
+	<item drawable="leos_messenger" />
+	<item drawable="leos_music" />
+	<item drawable="leos_untappd" />
+	<item drawable="leosdroid" />
 	<item drawable="lespas" />
 	<item drawable="lesserpad" />
 	<item drawable="lesspass" />
@@ -3367,6 +3383,7 @@
 	<item drawable="opencontacts" />
 	<item drawable="opencvmanager" />
 	<item drawable="opendocument_reader" />
+	<item drawable="openeuicc" />
 	<item drawable="openflashlight" />
 	<item drawable="openfoodfacts" />
 	<item drawable="openhab" />
@@ -3741,6 +3758,7 @@
 	<item drawable="proton_mail_alt" />
 	<item drawable="proton_vpn" />
 	<item drawable="proton_vpn_alt" />
+	<item drawable="protonmail" />
 	<item drawable="protonvideocompressor" />
 	<item drawable="proxdroid" />
 	<item drawable="prtg" />
@@ -3777,6 +3795,7 @@
 	<item drawable="qq_music" />
 	<item drawable="qr" />
 	<item drawable="qrforkeepass" />
+	<item drawable="qrscanner" />
 	<item drawable="qtranslate" />
 	<item drawable="quakedroid" />
 	<item drawable="quasseldroid" />
@@ -4175,6 +4194,8 @@
 	<item drawable="simpletextcrypt" />
 	<item drawable="simpletexteditor" />
 	<item drawable="simplethankyou" />
+	<item drawable="simpletranslate" />
+	<item drawable="simplevoicerecorder" />
 	<item drawable="simpleweather" />
 	<item drawable="simplex" />
 	<item drawable="simplicon" />
@@ -4182,6 +4203,7 @@
 	<item drawable="simplyplural" />
 	<item drawable="simplytranslate" />
 	<item drawable="simplytranslatemobile" />
+	<item drawable="simtoolkit" />
 	<item drawable="sipnetic" />
 	<item drawable="siriusxm" />
 	<item drawable="sj" />
@@ -4621,6 +4643,7 @@
 	<item drawable="tinytinyrss" />
 	<item drawable="tinytraveltracker" />
 	<item drawable="tisseo" />
+	<item drawable="titaniumbackup" />
 	<item drawable="tk" />
 	<item drawable="tkcompanionapp" />
 	<item drawable="tlajoapp" />
