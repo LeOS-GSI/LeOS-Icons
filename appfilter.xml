@@ -987,16 +987,16 @@
     <item component="ComponentInfo{com.jtmcn.archwiki.viewer/com.jtmcn.archwiki.viewer.MainActivity}" drawable="archwikiviewer" />
 
     <!-- Arcticons Dark -->
-    <item component="ComponentInfo{com.leos.icons/com.leos.icons.activities.MainActivity}" drawable="leos_icons" />
-    <item component="ComponentInfo{com.leos.icons/com.leos.icons.activities.SplashActivity}" drawable="leos_icons" />
-    <item component="ComponentInfo{com.leos.icons.debug/com.leos.icons.activities.MainActivity}" drawable="leos_icons" />
-    <item component="ComponentInfo{com.leos.icons.debug/com.leos.icons.activities.SplashActivity}" drawable="leos_icons" />
+    <item component="ComponentInfo{com.leos.icons/com.leos.icons.activities.MainActivity}" drawable="arcticonsdark" />
+    <item component="ComponentInfo{com.leos.icons/com.leos.icons.activities.SplashActivity}" drawable="arcticonsdark" />
+    <item component="ComponentInfo{com.leos.icons.debug/com.leos.icons.activities.MainActivity}" drawable="arcticonsdark" />
+    <item component="ComponentInfo{com.leos.icons.debug/com.leos.icons.activities.SplashActivity}" drawable="arcticonsdark" />
 
     <!-- Arcticons Light -->
-    <item component="ComponentInfo{com.leos.icons.light/com.leos.icons.activities.MainActivity}" drawable="leos_icons" />
-    <item component="ComponentInfo{com.leos.icons.light/com.leos.icons.activities.SplashActivity}" drawable="leos_icons" />
-    <item component="ComponentInfo{com.leos.icons.light.debug/com.leos.icons.activities.MainActivity}" drawable="leos_icons" />
-    <item component="ComponentInfo{com.leos.icons.light.debug/com.leos.icons.activities.SplashActivity}" drawable="leos_icons" />
+    <item component="ComponentInfo{com.leos.icons.light/com.leos.icons.activities.MainActivity}" drawable="arcticonslight" />
+    <item component="ComponentInfo{com.leos.icons.light/com.leos.icons.activities.SplashActivity}" drawable="arcticonslight" />
+    <item component="ComponentInfo{com.leos.icons.light.debug/com.leos.icons.activities.MainActivity}" drawable="arcticonslight" />
+    <item component="ComponentInfo{com.leos.icons.light.debug/com.leos.icons.activities.SplashActivity}" drawable="arcticonslight" />
 
     <!-- ArduinoDroid -->
     <item component="ComponentInfo{name.antonsmirnov.android.arduinodroid2/name.antonsmirnov.android.arduinodroid.ui.OnboardingActivity}" drawable="arduinodroid" />

@@ -2569,6 +2569,7 @@
 	<item drawable="leos_messenger" />
 	<item drawable="leos_music" />
 	<item drawable="leos_untappd" />
+	<item drawable="leos_wiki" />
 	<item drawable="leosdroid" />
 	<item drawable="lespas" />
 	<item drawable="lesserpad" />
@@ -3795,7 +3796,6 @@
 	<item drawable="qq_music" />
 	<item drawable="qr" />
 	<item drawable="qrforkeepass" />
-	<item drawable="qrscanner" />
 	<item drawable="qtranslate" />
 	<item drawable="quakedroid" />
 	<item drawable="quasseldroid" />
@@ -4194,8 +4194,6 @@
 	<item drawable="simpletextcrypt" />
 	<item drawable="simpletexteditor" />
 	<item drawable="simplethankyou" />
-	<item drawable="simpletranslate" />
-	<item drawable="simplevoicerecorder" />
 	<item drawable="simpleweather" />
 	<item drawable="simplex" />
 	<item drawable="simplicon" />

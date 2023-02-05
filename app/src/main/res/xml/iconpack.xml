@@ -2433,6 +2433,7 @@
 	    <item>leos_messenger</item>
 	    <item>leos_music</item>
 	    <item>leos_untappd</item>
+	    <item>leos_wiki</item>
 	    <item>lespas</item>
 	    <item>lesserpad</item>
 	    <item>lesspass</item>
@@ -3712,7 +3713,6 @@
 	    <item>qq_music</item>
 	    <item>qr</item>
 	    <item>qrforkeepass</item>
-	    <item>qrscanner</item>
 	    <item>qtranslate</item>
 	    <item>quakedroid</item>
 	    <item>quasseldroid</item>
@@ -4099,8 +4099,6 @@
 	    <item>simpletextcrypt</item>
 	    <item>simpletexteditor</item>
 	    <item>simplethankyou</item>
-	    <item>simpletranslate</item>
-	    <item>simplevoicerecorder</item>
 	    <item>simpleweather</item>
 	    <item>simplex</item>
 	    <item>simple_clipboard_editor</item>

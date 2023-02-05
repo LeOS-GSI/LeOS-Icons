@@ -2,14 +2,24 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
-	<item drawable="ebay" />
+	<item drawable="chatgpt" />
+	<item drawable="collaboraoffice" />
+	<item drawable="ebay_kleinanzeigen" />
+	<item drawable="hypatia" />
 	<item drawable="leos_camera" />
 	<item drawable="leos_chatgpt" />
-	<item drawable="leos_duolingo" />
-	<item drawable="leos_gallery" />
 	<item drawable="leos_delta" />
+	<item drawable="leos_duolingo" />
 	<item drawable="leos_files" />
+	<item drawable="leos_gallery" />
 	<item drawable="leos_matrix" />
+	<item drawable="leos_messenger" />
 	<item drawable="leos_music" />
 	<item drawable="leos_untappd" />
+	<item drawable="leos_wiki" />
+	<item drawable="librerapro" />
+	<item drawable="protonmail" />
+	<item drawable="simtoolkit" />
+	<item drawable="threema" />
+	<item drawable="titaniumbackup" />
 </resources>
