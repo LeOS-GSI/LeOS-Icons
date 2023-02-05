@@ -170,6 +170,10 @@
 
                 <category android:name="ch.deletescape.lawnchair.PICK_ICON" />
             </intent-filter>
+          <!-- LeOS -->
+            <intent-filter>
+                <action android:name="com.saggitt.omega.debug.THEME" />
+            </intent-filter>
             <!-- Nova Launcher Custom Icon Picker -->
             <intent-filter>
                 <action android:name="com.novalauncher.THEME" />

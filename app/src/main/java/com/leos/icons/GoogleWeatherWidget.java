@@ -24,7 +24,7 @@ public class GoogleWeatherWidget extends AppCompatActivity {
 
         Intent.ShortcutIconResource iconResource = Intent.ShortcutIconResource.fromContext(this, R.drawable.google_weather);
         shortcutIntent.setData(Uri.parse("https:///..."));
-        shortcutIntent.setComponent(ComponentName.unflattenFromString("com.google.android.googlequicksearchbox/com.google.android.apps.search.weather.WeatherExportedActivity"));
+        shortcutIntent.setComponent(ComponentName.unflattenFromString("https://weawow.com"));
         Intent intent = new Intent();
         intent.putExtra(Intent.EXTRA_SHORTCUT_INTENT, shortcutIntent)
                 .putExtra(Intent.EXTRA_SHORTCUT_NAME, getString(R.string.google_weather))

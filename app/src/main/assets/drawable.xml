@@ -3586,6 +3586,7 @@
 	<item drawable="phonesaver" />
 	<item drawable="phonetrack" />
 	<item drawable="phonograph" />
+	<item drawable="phonograph_plus" />
 	<item drawable="photo_affix" />
 	<item drawable="photo_collage" />
 	<item drawable="photo_pro" />
@@ -3811,6 +3812,7 @@
 	<item drawable="quickdic" />
 	<item drawable="quickedit" />
 	<item drawable="quicklyquit" />
+	<item drawable="quicklyric" />
 	<item drawable="quicknote" />
 	<item drawable="quicknovel" />
 	<item drawable="quicksupport" />
@@ -4542,6 +4544,7 @@
 	<item drawable="teamward" />
 	<item drawable="teapod" />
 	<item drawable="tec" />
+	<item drawable="tecarta_bible" />
 	<item drawable="techmino" />
 	<item drawable="tecka" />
 	<item drawable="ted" />

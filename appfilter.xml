@@ -992,12 +992,6 @@
     <item component="ComponentInfo{com.leos.icons.debug/com.leos.icons.activities.MainActivity}" drawable="arcticonsdark" />
     <item component="ComponentInfo{com.leos.icons.debug/com.leos.icons.activities.SplashActivity}" drawable="arcticonsdark" />
 
-    <!-- Arcticons Light -->
-    <item component="ComponentInfo{com.leos.icons.light/com.leos.icons.activities.MainActivity}" drawable="arcticonslight" />
-    <item component="ComponentInfo{com.leos.icons.light/com.leos.icons.activities.SplashActivity}" drawable="arcticonslight" />
-    <item component="ComponentInfo{com.leos.icons.light.debug/com.leos.icons.activities.MainActivity}" drawable="arcticonslight" />
-    <item component="ComponentInfo{com.leos.icons.light.debug/com.leos.icons.activities.SplashActivity}" drawable="arcticonslight" />
-
     <!-- ArduinoDroid -->
     <item component="ComponentInfo{name.antonsmirnov.android.arduinodroid2/name.antonsmirnov.android.arduinodroid.ui.OnboardingActivity}" drawable="arduinodroid" />
 
@@ -8693,7 +8687,6 @@
 
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
-    <item component="ComponentInfo{com.leos.launcher.dev/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher12" />
 
     <!-- Neo Store / Droid-ify -->
     <item component="ComponentInfo{com.looker.droidify/com.looker.droidify.MainActivity}" drawable="droidify" />

@@ -7,8 +7,8 @@ android {
         applicationId "com.leos.icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 103
-        versionName '1.6.1'
+        versionCode 104
+        versionName '1.6.2'
         multiDexEnabled true
 
         // Naming app bundles

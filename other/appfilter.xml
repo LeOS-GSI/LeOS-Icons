@@ -7875,7 +7875,6 @@
 
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
-    <item component="ComponentInfo{com.leos.launcher.dev/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher12" />
 
     <!-- Les Pas -->
     <item component="ComponentInfo{site.leos.apps.lespas/site.leos.apps.lespas.LesPas}" drawable="lespas" />
