@@ -1452,6 +1452,7 @@
 	<item drawable="dsdrive" />
 	<item drawable="dslrdashboard" />
 	<item drawable="dsphoto" />
+	<item drawable="dsu_sideloader" />
 	<item drawable="dsub" />
 	<item drawable="duca" />
 	<item drawable="duckduckgo" />
@@ -2561,13 +2562,20 @@
 	<item drawable="leon_urlcleaner" />
 	<item drawable="leos_camera" />
 	<item drawable="leos_chatgpt" />
+	<item drawable="leos_contacts" />
 	<item drawable="leos_delta" />
+	<item drawable="leos_droid" />
+	<item drawable="leos_duckduckgo" />
 	<item drawable="leos_duolingo" />
 	<item drawable="leos_files" />
 	<item drawable="leos_gallery" />
+	<item drawable="leos_launcher12" />
 	<item drawable="leos_matrix" />
 	<item drawable="leos_messenger" />
 	<item drawable="leos_music" />
+	<item drawable="leos_phone" />
+	<item drawable="leos_sms" />
+	<item drawable="leos_translate" />
 	<item drawable="leos_untappd" />
 	<item drawable="leos_wiki" />
 	<item drawable="leosdroid" />
@@ -4894,6 +4902,7 @@
 	<item drawable="verkehr_nrw" />
 	<item drawable="vernet" />
 	<item drawable="very" />
+	<item drawable="veryfit" />
 	<item drawable="vespucci" />
 	<item drawable="vflat" />
 	<item drawable="vi" />

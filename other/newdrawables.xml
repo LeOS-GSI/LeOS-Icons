@@ -2,9 +2,13 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
-	<item drawable="deck" />
-	<item drawable="jtx_board" />
-	<item drawable="phonograph_plus" />
-	<item drawable="quicklyric" />
-	<item drawable="tecarta_bible" />
+	<item drawable="dsu_sideloader" />
+	<item drawable="dsu_sideloader" />
+
+
+	<item drawable="leos_contacts" />
+	<item drawable="leos_droid" />
+	<item drawable="leos_music" />
+	<item drawable="leos_phone" />
+	<item drawable="leos_sms" />
 </resources>

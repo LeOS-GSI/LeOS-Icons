@@ -576,6 +576,7 @@
 	  <item drawable="dsdrive" />
 	  <item drawable="dslrdashboard" />
 	  <item drawable="dsphoto" />
+	  <item drawable="dsu_sideloader" />
 	  <item drawable="dsub" />
 	  <item drawable="duckduckgo" />
 	  <item drawable="duo" />
@@ -1062,6 +1063,11 @@
 	  <item drawable="lens" />
 	  <item drawable="leo" />
 	  <item drawable="leos" />
+      <item drawable="leos_contacts" />
+	  <item drawable="leos_droid" />
+	  <item drawable="leos_music" />
+	  <item drawable="leos_phone" />
+	  <item drawable="leos_sms" />
 	  <item drawable="lesserpad" />
 	  <item drawable="lettera" />
 	  <item drawable="letterb" />

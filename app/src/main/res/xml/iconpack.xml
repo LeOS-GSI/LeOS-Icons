@@ -1314,6 +1314,7 @@
 	    <item>dslrdashboard</item>
 	    <item>dsphoto</item>
 	    <item>dsub</item>
+	    <item>dsu_sideloader</item>
 	    <item>ds_cam</item>
 	    <item>ds_file</item>
 	    <item>duca</item>
@@ -2425,13 +2426,20 @@
 	    <item>leosdroid</item>
 	    <item>leos_camera</item>
 	    <item>leos_chatgpt</item>
+	    <item>leos_contacts</item>
 	    <item>leos_delta</item>
+	    <item>leos_droid</item>
+	    <item>leos_duckduckgo</item>
 	    <item>leos_duolingo</item>
 	    <item>leos_files</item>
 	    <item>leos_gallery</item>
+	    <item>leos_launcher12</item>
 	    <item>leos_matrix</item>
 	    <item>leos_messenger</item>
 	    <item>leos_music</item>
+	    <item>leos_phone</item>
+	    <item>leos_sms</item>
+	    <item>leos_translate</item>
 	    <item>leos_untappd</item>
 	    <item>leos_wiki</item>
 	    <item>lespas</item>
@@ -4801,6 +4809,7 @@
 	    <item>verkehr_nrw</item>
 	    <item>vernet</item>
 	    <item>very</item>
+	    <item>veryfit</item>
 	    <item>vespucci</item>
 	    <item>vflat</item>
 	    <item>vi</item>

@@ -15792,4 +15792,21 @@
     <!-- ダンカグ aka Touhou Danmaku Kagura -->
     <item component="ComponentInfo{com.dena.a12026801/jp.co.xeen.xeapp2.CustomPlayerActivity}" drawable="touhou_danmaku_kagura" />
 
+	<!-- DSU Sideloader -->
+	<item component="ComponentInfo{vegabobo.dsusideloader/vegabobo.dsusideloader.MainActivity}" drawable="dsu_sideloader" />
+	<!-- LeOS-Contacts -->
+	<item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+
+	<!-- LeOS-Droid -->
+	<item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
+
+	<!-- LeOS-Music -->
+	<item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
+
+	<!-- LeOS-Phone -->
+	<item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
+
+	<!-- LeOS-SMS -->
+	<item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
+
 </resources>

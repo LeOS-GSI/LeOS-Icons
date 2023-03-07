@@ -4226,6 +4226,9 @@
     <!-- DS Photo -->
     <item component="ComponentInfo{com.synology.dsphoto/com.synology.dsphoto.SplashActivity}" drawable="dsphoto" />
 
+	<!-- DSU Sideloader -->
+	<item component="ComponentInfo{vegabobo.dsusideloader/vegabobo.dsusideloader.MainActivity}" drawable="dsu_sideloader" />
+
     <!-- Dsub -->
     <item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub" />
 
@@ -7875,6 +7878,21 @@
 
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
+
+    <!-- LeOS contacts -->
+	<item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+
+	<!-- LeOS-Droid -->
+	<item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
+
+	<!-- LeOS-Music -->
+	<item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
+
+	<!-- LeOS-Phone -->
+	<item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
+
+	<!-- LeOS-SMS -->
+	<item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
 
     <!-- Les Pas -->
     <item component="ComponentInfo{site.leos.apps.lespas/site.leos.apps.lespas.LesPas}" drawable="lespas" />
