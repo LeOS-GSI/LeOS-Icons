@@ -2,13 +2,5 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
-	<item drawable="dsu_sideloader" />
-	<item drawable="dsu_sideloader" />
-
-
-	<item drawable="leos_contacts" />
-	<item drawable="leos_droid" />
-	<item drawable="leos_music" />
-	<item drawable="leos_phone" />
-	<item drawable="leos_sms" />
+	<item drawable="omron_connect" />
 </resources>

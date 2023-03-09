@@ -1337,6 +1337,7 @@
 	<item drawable="digital_wellbeing" />
 	<item drawable="digital_work_wallet" />
 	<item drawable="digital_yuan" />
+	<item drawable="digitales_amt" />
 	<item drawable="digitalesamt" />
 	<item drawable="digitalsignage" />
 	<item drawable="digitalwellbeing" />
@@ -2051,6 +2052,7 @@
 	<item drawable="gwent" />
 	<item drawable="gyanfresh" />
 	<item drawable="gymroutines" />
+	<item drawable="gz_and_xz_extract" />
 	
 	<category title="H" />
 	<item drawable="habitica" />
@@ -2061,8 +2063,8 @@
 	<item drawable="hamgps" />
 	<item drawable="hamradiotools" />
 	<item drawable="hamtrainer" />
+	<item drawable="handy_signatur" />
 	<item drawable="handynewsreader" />
-	<item drawable="handysignatur" />
 	<item drawable="hangzhou_metro" />
 	<item drawable="hanju_tv" />
 	<item drawable="hanping_lite" />
@@ -2568,7 +2570,6 @@
 	<item drawable="leos_duckduckgo" />
 	<item drawable="leos_duolingo" />
 	<item drawable="leos_files" />
-	<item drawable="leos_gallery" />
 	<item drawable="leos_launcher12" />
 	<item drawable="leos_matrix" />
 	<item drawable="leos_messenger" />
@@ -3362,7 +3363,7 @@
 	<item drawable="omniclock" />
 	<item drawable="omninotes" />
 	<item drawable="omnivox" />
-	<item drawable="omron" />
+	<item drawable="omron_connect" />
 	<item drawable="omw" />
 	<item drawable="onay" />
 	<item drawable="once" />
@@ -3716,12 +3717,12 @@
 	<item drawable="postnl" />
 	<item drawable="postnord" />
 	<item drawable="powdertoy" />
-	<item drawable="power_switch" />
 	<item drawable="poweramp" />
 	<item drawable="poweramp_equalizer" />
 	<item drawable="powerapp" />
 	<item drawable="powercenter" />
 	<item drawable="powerschool" />
+	<item drawable="powerswitch" />
 	<item drawable="powertunnel" />
 	<item drawable="ppsspp" />
 	<item drawable="pr0gramm" />
@@ -4779,7 +4780,7 @@
 	<item drawable="twidere" />
 	<item drawable="twilight" />
 	<item drawable="twint" />
-	<item drawable="twion" />
+	<item drawable="twion_m24" />
 	<item drawable="twire" />
 	<item drawable="twist" />
 	<item drawable="twistytimer" />

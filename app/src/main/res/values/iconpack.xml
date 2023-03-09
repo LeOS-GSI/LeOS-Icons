@@ -675,6 +675,8 @@
 	    <item>calculator</item>
 	    <item>calculatorplusplus</item>
 	    <item>calculatorpluspluswindowed</item>
+	    <item>calculator</item>
+	    <item>(Kopie)</item>
 	    <item>calculator_basic_scientific_calculations</item>
 	    <item>calef</item>
 	    <item>calendara</item>
@@ -1197,6 +1199,7 @@
 	    <item>digilocker</item>
 	    <item>digilux</item>
 	    <item>digitalesamt</item>
+	    <item>digitales_amt</item>
 	    <item>digitalsignage</item>
 	    <item>digitalwellbeing</item>
 	    <item>digital_post</item>
@@ -1926,6 +1929,7 @@
 	    <item>gwent</item>
 	    <item>gyanfresh</item>
 	    <item>gymroutines</item>
+	    <item>gz_and_xz_extract</item>
 	    <item>habitica</item>
 	    <item>hackerskb</item>
 	    <item>hadesstar</item>
@@ -1935,7 +1939,7 @@
 	    <item>hamradiotools</item>
 	    <item>hamtrainer</item>
 	    <item>handynewsreader</item>
-	    <item>handysignatur</item>
+	    <item>handy_signatur</item>
 	    <item>hangzhou_metro</item>
 	    <item>hanju_tv</item>
 	    <item>hanping_lite</item>
@@ -2432,7 +2436,6 @@
 	    <item>leos_duckduckgo</item>
 	    <item>leos_duolingo</item>
 	    <item>leos_files</item>
-	    <item>leos_gallery</item>
 	    <item>leos_launcher12</item>
 	    <item>leos_matrix</item>
 	    <item>leos_messenger</item>
@@ -3283,7 +3286,7 @@
 	    <item>omniclock</item>
 	    <item>omninotes</item>
 	    <item>omnivox</item>
-	    <item>omron</item>
+	    <item>omron_connect</item>
 	    <item>omw</item>
 	    <item>onay</item>
 	    <item>once</item>
@@ -3640,8 +3643,8 @@
 	    <item>powerapp</item>
 	    <item>powercenter</item>
 	    <item>powerschool</item>
+	    <item>powerswitch</item>
 	    <item>powertunnel</item>
-	    <item>power_switch</item>
 	    <item>ppsspp</item>
 	    <item>pr0gramm</item>
 	    <item>practicehub</item>
@@ -4689,7 +4692,7 @@
 	    <item>twidere</item>
 	    <item>twilight</item>
 	    <item>twint</item>
-	    <item>twion</item>
+	    <item>twion_m24</item>
 	    <item>twire</item>
 	    <item>twist</item>
 	    <item>twistytimer</item>

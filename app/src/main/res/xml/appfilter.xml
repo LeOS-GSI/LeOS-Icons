@@ -2337,6 +2337,9 @@
     <item component="ComponentInfo{com.vivo.calculator/com.vivo.calculator.Calculator}" drawable="calculator" />
     <item component="ComponentInfo{com.zui.calculator/com.zui.calculator.Calculator}" drawable="calculator" />
 
+    <!-- Calculator -->
+    <item component="ComponentInfo{com.leos.app.vault/com.calculator.vault.gallery.locker.hide.data.activity.CalculatorActivity}" drawable="calculator" />
+
     <!-- Calculator++ -->
     <item component="ComponentInfo{org.solovyev.android.calculator/org.solovyev.android.calculator.CalculatorActivity}" drawable="calculatorplusplus" />
 
@@ -2487,6 +2490,9 @@
     <item component="ComponentInfo{com.zui.camera/com.zui.camera.CameraActivity}" drawable="camera" />
     <item component="ComponentInfo{jp.co.sharp.android.camera/jp.co.sharp.android.camera.stillimagecamera.Camera}" drawable="camera" />
     <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="camera" />
+
+    <!-- Camera -->
+    <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
 
     <!-- Camera Remote -->
     <item component="ComponentInfo{com.fujifilm_dsc.app.remoteshooter/com.fujifilm_dsc.app.remoteshooter.InitializeActivity}" drawable="cameraremote" />
@@ -3878,6 +3884,12 @@
     <!-- Digitales Amt -->
     <item component="ComponentInfo{at.gv.io.app/at.gv.io.app.MainActivity}" drawable="digitalesamt" />
 
+    <!-- Digitales Amt -->
+    <item component="ComponentInfo{at.gv.oe.app/at.gv.oe.app.MainActivity}" drawable="digitales_amt" />
+
+    <!-- Digitales Amt -->
+    <item component="ComponentInfo{at.gv.oe.app/at.gv.oe.app.MainActivity}" drawable="digitales_amt" />
+
     <!-- Digital Post -->
     <item component="ComponentInfo{dk.digst.DigitalPost/com.digitaliseringsstyrelsen.digitalPostApp.MainActivity}" drawable="digital_post" />
 
@@ -4226,11 +4238,11 @@
     <!-- DS Photo -->
     <item component="ComponentInfo{com.synology.dsphoto/com.synology.dsphoto.SplashActivity}" drawable="dsphoto" />
 
-	<!-- DSU Sideloader -->
-	<item component="ComponentInfo{vegabobo.dsusideloader/vegabobo.dsusideloader.MainActivity}" drawable="dsu_sideloader" />
-
     <!-- Dsub -->
     <item component="ComponentInfo{github.daneren2005.dsub/github.daneren2005.dsub.activity.SubsonicFragmentActivity}" drawable="dsub" />
+
+    <!-- DSU Sideloader -->
+    <item component="ComponentInfo{vegabobo.dsusideloader/vegabobo.dsusideloader.MainActivity}" drawable="dsu_sideloader" />
 
     <!-- DTEK by BlackBerry -->
     <item component="ComponentInfo{com.blackberry.privacydashboard/com.blackberry.privacydashboard.SafeguardActivity}" drawable="dtekbyblackberry" />
@@ -5593,6 +5605,9 @@
     <item component="ComponentInfo{com.oneplus.gallery/com.coloros.gallery3d.app.MainActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.app.MainActivity}" drawable="gallery" />
 
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.leos.gallery/com.example.gallery.ui.MainActivity}" drawable="gallery" />
+
     <!-- Galnet Dictionary -->
     <item component="ComponentInfo{gal.sli.digalnet/gal.sli.digalnet.MainActivity}" drawable="galnet_dictionary" />
 
@@ -6248,6 +6263,10 @@
     <!-- GymRoutines -->
     <item component="ComponentInfo{com.noahjutz.gymroutines/com.noahjutz.gymroutines.ui.MainActivity}" drawable="gymroutines" />
 
+    <!-- GZ & XZ Extract -->
+    <!-- GZ & XZ Extract -->
+    <item component="ComponentInfo{evansir.gzxzextract/evansir.gzxzextract.MainActivity}" drawable="gz_and_xz_extract" />
+
     <!-- Habitica -->
     <item component="ComponentInfo{com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity}" drawable="habitica" />
 
@@ -6277,6 +6296,12 @@
 
     <!-- Handy News Reader -->
     <item component="ComponentInfo{ru.yanus171.feedexfork/ru.yanus171.feedexfork.activity.HomeActivity}" drawable="handynewsreader" />
+
+    <!-- Handy-Signatur -->
+    <item component="ComponentInfo{at.atrust.tanapp/at.atrust.tanapp.MainActivity}" drawable="handy_signatur" />
+
+    <!-- Handy-Signatur -->
+    <item component="ComponentInfo{at.atrust.tanapp/at.atrust.tanapp.MainActivity}" drawable="handy_signatur" />
 
     <!-- Hangzhou Metro -->
     <item component="ComponentInfo{com.dtdream.hzmetro/com.dtdream.hzmetro.activity.SplashActivity}" drawable="hangzhou_metro" />
@@ -7876,23 +7901,35 @@
     <!-- Leo -->
     <item component="ComponentInfo{org.leo.android.dict/org.leo.android.dict.LeoDict}" drawable="leo" />
 
+    <!-- LeOS-Camera -->
+    <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
+
+    <!-- LeOS contacts -->
+    <item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+
+    <!-- LeOS-Delta -->
+    <item component="ComponentInfo{com.leos.delta.beta/org.thoughtcrime.securesms.RoutingActivity}" drawable="leos_delta" />
+
+    <!-- LeOS-Droid -->
+    <item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
+
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
 
-    <!-- LeOS contacts -->
-	<item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+    <!-- LeOS-Matrix -->
+    <item component="ComponentInfo{com.leos.matrix/im.vector.app.features.Alias}" drawable="leos_matrix" />
 
-	<!-- LeOS-Droid -->
-	<item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
+    <!-- LeOS-Music -->
+    <item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
 
-	<!-- LeOS-Music -->
-	<item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
+    <!-- LeOS-Phone -->
+    <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
 
-	<!-- LeOS-Phone -->
-	<item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
+    <!-- LeOS-Phone -->
+    <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
 
-	<!-- LeOS-SMS -->
-	<item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
+    <!-- LeOS-SMS -->
+    <item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
 
     <!-- Les Pas -->
     <item component="ComponentInfo{site.leos.apps.lespas/site.leos.apps.lespas.LesPas}" drawable="lespas" />
@@ -9620,6 +9657,12 @@
     <item component="ComponentInfo{com.mypat/com.mypat.MainActivity}" drawable="mypat" />
 
     <!-- myPhonak -->
+    <item component="ComponentInfo{com.sonova.phonak.dsapp/app.myphonak.android.activities.MainActivity}" drawable="myphonak" />
+
+    <!-- myPhonak -->
+    <item component="ComponentInfo{com.sonova.phonak.dsapp/app.myphonak.android.activities.MainActivity}" drawable="myphonak" />
+
+    <!-- myPhonak -->
     <item component="ComponentInfo{com.sonova.phonak.dsapp/com.sonova.phonak.dsapp.SplashActivity}" drawable="myphonak" />
 
     <!-- MyPhoneExplorer Client -->
@@ -10483,6 +10526,15 @@
 
     <!-- Omnivox -->
     <item component="ComponentInfo{com.skytech.omnivoxmobile/com.skytech.omnivox.MainActivity}" drawable="omnivox" />
+
+    <!-- OMRON connect -->
+    <item component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.view.module.splash.SplashActivity}" drawable="omron_connect" />
+
+    <!-- OMRON connect -->
+    <item component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.view.module.splash.SplashActivity}" drawable="omron_connect" />
+
+    <!-- OMRON connect -->
+    <item component="ComponentInfo{com.omronhealthcare.omronconnect/com.omronhealthcare.foresight.view.module.splash.SplashActivity}" drawable="omron_connect" />
 
     <!-- OMW -->
     <item component="ComponentInfo{is.xyz.omw/ui.activity.MainActivity}" drawable="omw" />
@@ -11621,6 +11673,12 @@
 
     <!-- PowerSchool -->
     <item component="ComponentInfo{com.powerschool.portal/com.pearson.powerschool.android.portal.PortalActivity}" drawable="powerschool" />
+
+    <!-- PowerSwitch -->
+    <item component="ComponentInfo{eu.power_switch/eu.power_switch.gui.activity.MainActivity}" drawable="powerswitch" />
+
+    <!-- PowerSwitch -->
+    <item component="ComponentInfo{eu.power_switch/eu.power_switch.gui.activity.MainActivity}" drawable="powerswitch" />
 
     <!-- PowerTunnel -->
     <item component="ComponentInfo{io.github.krlvm.powertunnel.android/io.github.krlvm.powertunnel.android.activities.SplashActivity}" drawable="powertunnel" />
@@ -15764,6 +15822,12 @@
     <item component="ComponentInfo{com.appkb.android.twint/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
     <item component="ComponentInfo{ch.bcj.twint/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
     <item component="ComponentInfo{ch.bcn.twint/ch.twint.payment.ui.activities.start.StartActivity}" drawable="twint" />
+
+    <!-- twion® M24 -->
+    <item component="ComponentInfo{de.alber.twion_m24/de.alber.twion_m24.SplashActivity}" drawable="twion®_m24" />
+
+    <!-- twion® M24 -->
+    <item component="ComponentInfo{de.alber.twion_m24/de.alber.twion_m24.SplashActivity}" drawable="twion®_m24" />
 
     <!-- Twire -->
     <item component="ComponentInfo{com.perflyst.twire/com.perflyst.twire.activities.StartUpActivity}" drawable="twire" />
