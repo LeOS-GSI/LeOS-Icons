@@ -15805,11 +15805,8 @@
     <!-- LeOS-Camera -->
     <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
 
-    <!-- LeOS-Camera -->
-    <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
-
-    <!-- LeOS-Delta -->
-    <item component="ComponentInfo{com.leos.delta.beta/org.thoughtcrime.securesms.RoutingActivity}" drawable="leos_delta" />
+    <!-- LeOS-Contacts -->
+    <item component="ComponentInfo{com.leos.contacts/com.leos.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
 
     <!-- LeOS-Delta -->
     <item component="ComponentInfo{com.leos.delta.beta/org.thoughtcrime.securesms.RoutingActivity}" drawable="leos_delta" />
@@ -15817,23 +15814,11 @@
     <!-- LeOS-Droid -->
     <item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
 
-    <!-- LeOS-Droid -->
-    <item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
-
-    <!-- LeOS Launcher -->
-    <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
-
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
 
     <!-- LeOS-Matrix -->
     <item component="ComponentInfo{com.leos.matrix/im.vector.app.features.Alias}" drawable="leos_matrix" />
-
-    <!-- LeOS-Matrix -->
-    <item component="ComponentInfo{com.leos.matrix/im.vector.app.features.Alias}" drawable="leos_matrix" />
-
-    <!-- LeOS-Music -->
-    <item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
 
     <!-- LeOS-Music -->
     <item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
@@ -15843,9 +15828,6 @@
 
     <!-- LeOS-Sayboard -->
     <item component="ComponentInfo{com.leos.sayboard/com.leos.sayboard.SettingsActivity}" drawable="leos_sayboard" />
-
-    <!-- LeOS-SMS -->
-    <item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
 
     <!-- LeOS-SMS -->
     <item component="ComponentInfo{com.leos.smsmessenger/com.leos.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
