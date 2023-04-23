@@ -1077,6 +1077,7 @@
 	  <item drawable="leos_messenger" />
 	  <item drawable="leos_music" />
 	  <item drawable="leos_phone" />
+	  <item drawable="leos_sayboard" />
 	  <item drawable="leos_sms" />
 	  <item drawable="leos_translate" />
 	  <item drawable="leos_untappd" />

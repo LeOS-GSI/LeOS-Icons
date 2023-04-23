@@ -7905,7 +7905,7 @@
     <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
 
     <!-- LeOS contacts -->
-    <item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+    <item component="ComponentInfo{com.leos.contacts/com.leos.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
 
     <!-- LeOS-Delta -->
     <item component="ComponentInfo{com.leos.delta.beta/org.thoughtcrime.securesms.RoutingActivity}" drawable="leos_delta" />
@@ -7923,13 +7923,13 @@
     <item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
 
     <!-- LeOS-Phone -->
-    <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
+    <item component="ComponentInfo{com.leos.dialer/com.leos.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
 
-    <!-- LeOS-Phone -->
-    <item component="ComponentInfo{com.goodwy.dialer/com.goodwy.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
+    	<!-- LeOS-Sayboard -->
+	<item component="ComponentInfo{com.leos.sayboard/com.leos.sayboard.SettingsActivity}" drawable="leos_sayboard" />
 
     <!-- LeOS-SMS -->
-    <item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
+    <item component="ComponentInfo{com.leos.smsmessenger/com.leos.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
 
     <!-- Les Pas -->
     <item component="ComponentInfo{site.leos.apps.lespas/site.leos.apps.lespas.LesPas}" drawable="lespas" />
