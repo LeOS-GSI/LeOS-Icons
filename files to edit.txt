@@ -1,0 +1,23 @@
+docs/drawable.xml
+1068:	  <item drawable="leos_contacts" />
+
+other/appfilter.xml
+7908:    <item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+
+app/src/main/res/values/iconpack.xml
+2433:	    <item>leos_contacts</item>
+
+app/src/main/res/xml/drawable.xml
+2567:	<item drawable="leos_contacts" />
+
+app/src/main/res/xml/iconpack.xml
+2433:	    <item>leos_contacts</item>
+
+app/src/main/assets/drawable.xml
+2567:	<item drawable="leos_contacts" />
+
+app/src/main/res/xml/appfilter.xml
+7908:    <item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+
+app/src/main/assets/appfilter.xml
+7908:    <item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />

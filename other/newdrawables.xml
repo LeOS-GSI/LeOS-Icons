@@ -2,5 +2,5 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
-	<item drawable="omron_connect" />
+	<item drawable="leos_contacts" />
 </resources>
