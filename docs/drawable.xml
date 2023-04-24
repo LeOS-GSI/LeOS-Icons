@@ -1064,6 +1064,7 @@
 	  <item drawable="leo" />
 	  <item drawable="leos" />
       <item drawable="leos_calculator" />
+	  <iten drawable="leos_camera" />
 	  <item drawable="leos_chatgpt" />
 	  <item drawable="leos_contacts" />
 	  <item drawable="leos_delta" />

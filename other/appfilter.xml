@@ -15802,11 +15802,11 @@
     <!-- Leo -->
     <item component="ComponentInfo{org.leo.android.dict/org.leo.android.dict.LeoDict}" drawable="leo" />
 
-    <!-- LeOS-Camera -->
-    <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
+	<!-- Camera -->
+	<item component="ComponentInfo{com.leos.camera/org.lineageos.aperture.CameraLauncher}" drawable="leos_camera" />
 
-    <!-- LeOS-Contacts -->
-    <item component="ComponentInfo{com.leos.contacts/com.leos.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+	<!-- LeOS-Contacts -->
+	<item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
 
     <!-- LeOS-Delta -->
     <item component="ComponentInfo{com.leos.delta.beta/org.thoughtcrime.securesms.RoutingActivity}" drawable="leos_delta" />
