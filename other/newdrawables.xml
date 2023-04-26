@@ -2,5 +2,5 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
-	<item drawable="leos_phone" />
+	<item drawable="leos_fone" />
 </resources>

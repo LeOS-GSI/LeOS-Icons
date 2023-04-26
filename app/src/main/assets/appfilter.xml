@@ -15827,7 +15827,7 @@
     <item component="ComponentInfo{com.harvey186.leos.music/code.name.monkey.retromusic.activities.MainActivity}" drawable="leos_music" />
 
     <!-- LeOS-Phone -->
-    <item component="ComponentInfo{com.leos.dialer/com.leos.dialer.activities.SplashActivity.Orange}" drawable="leos_phone" />
+    <item component="ComponentInfo{com.leos.dialer/com.leos.dialer.activities.SplashActivity.Orange}" drawable="phone" />
 
     <!-- LeOS-Sayboard -->
     <item component="ComponentInfo{com.leos.sayboard/com.leos.sayboard.SettingsActivity}" drawable="leos_sayboard" />
