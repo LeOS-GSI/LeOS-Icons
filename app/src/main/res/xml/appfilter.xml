@@ -4988,6 +4988,9 @@
     <!-- Camera -->
     <item component="ComponentInfo{com.leos.camera.dev/org.lineageos.aperture.CameraLauncher}" drawable="camera" />
 
+    <!-- Camera -->
+    <item component="ComponentInfo{com.leos.camera/org.lineageos.aperture.CameraLauncher}" drawable="leos_camera" />
+
     <!-- Camera Remote -->
     <item component="ComponentInfo{com.fujifilm_dsc.app.remoteshooter/com.fujifilm_dsc.app.remoteshooter.InitializeActivity}" drawable="cameraremote" />
 
@@ -5213,6 +5216,9 @@
 
     <!-- Cat Avatar Generator -->
     <item component="ComponentInfo{com.agateau.catgenerator/com.agateau.catgenerator.MainActivity}" drawable="cat_avatar_generator" />
+
+    <!-- Catima -->
+    <item component="ComponentInfo{me.hackerchick.catima/me.hackerchick.catima.MainActivity}" drawable="catima" />
 
     <!-- Catima -->
     <item component="ComponentInfo{me.hackerchick.catima/protect.card_locker.MainActivity}" drawable="catima" />
@@ -15802,11 +15808,8 @@
     <!-- Leo -->
     <item component="ComponentInfo{org.leo.android.dict/org.leo.android.dict.LeoDict}" drawable="leo" />
 
-	<!-- Camera -->
-	<item component="ComponentInfo{com.leos.camera/org.lineageos.aperture.CameraLauncher}" drawable="leos_camera" />
-
-	<!-- LeOS-Contacts -->
-	<item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
+    <!-- LeOS-Contacts -->
+    <item component="ComponentInfo{com.leos.contacts/com.goodwy.contacts.activities.SplashActivity.Orange}" drawable="leos_contacts" />
 
     <!-- LeOS-Delta -->
     <item component="ComponentInfo{com.leos.delta.beta/org.thoughtcrime.securesms.RoutingActivity}" drawable="leos_delta" />
@@ -15828,9 +15831,6 @@
 
     <!-- LeOS-Sayboard -->
     <item component="ComponentInfo{com.leos.sayboard/com.leos.sayboard.SettingsActivity}" drawable="leos_sayboard" />
-
-    <!-- LeOS-SMS -->
-    <item component="ComponentInfo{com.goodwy.smsmessenger/com.goodwy.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
 
     <!-- LeOS-SMS -->
     <item component="ComponentInfo{com.leos.smsmessenger/com.leos.smsmessenger.activities.SplashActivity.Orange}" drawable="leos_sms" />
@@ -24216,6 +24216,9 @@
 
     <!-- SD Maid Pro -->
     <item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}" drawable="sd_maid_pro" />
+
+    <!-- SD Maid SE -->
+    <item component="ComponentInfo{eu.darken.sdmse/eu.darken.sdmse.main.ui.MainActivity}" drawable="sd_maid_se" />
 
     <!-- SD Scanner -->
     <item component="ComponentInfo{com.gmail.jerickson314.sdscanner/com.gmail.jerickson314.sdscanner.MainActivity}" drawable="sdscanner" />
