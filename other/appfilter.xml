@@ -28762,4 +28762,7 @@
     <!-- ﾆｺﾆｺ動画 -->
     <item component="ComponentInfo{jp.nicovideo.android/jp.nicovideo.android.StartupActivity}" drawable="niconico" />
 
+	<!-- LeOS -->
+	<item component="ComponentInfo{com.leos.ium/com.google.android.apps.chrome.Main}" drawable="leosium" />
+
 </resources>
