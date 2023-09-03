@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.leos.icons.release",
+  "variantName": "darkDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 112,
+      "versionName": "1.6.4.1",
+      "outputFile": "LeOS-Icons-v1.6.4.1-dark-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

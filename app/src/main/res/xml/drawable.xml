@@ -771,6 +771,7 @@
 	<item drawable="blitzortung_lightning_monitor" />
 	<item drawable="blizzard_authenticator" />
 	<item drawable="block_buster" />
+	<item drawable="block_this_" />
 	<item drawable="blockbuster" />
 	<item drawable="blockchain" />
 	<item drawable="blocker" />
@@ -2570,17 +2571,18 @@
 	<item drawable="leos_duckduckgo" />
 	<item drawable="leos_duolingo" />
 	<item drawable="leos_files" />
+	<item drawable="leos_fone" />
 	<item drawable="leos_launcher12" />
 	<item drawable="leos_matrix" />
 	<item drawable="leos_messenger" />
 	<item drawable="leos_music" />
-	<item drawable="leos_fone" />
 	<item drawable="leos_sayboard" />
 	<item drawable="leos_sms" />
 	<item drawable="leos_translate" />
 	<item drawable="leos_untappd" />
 	<item drawable="leos_wiki" />
 	<item drawable="leosdroid" />
+	<item drawable="leosium" />
 	<item drawable="lespas" />
 	<item drawable="lesserpad" />
 	<item drawable="lesspass" />
@@ -3641,6 +3643,7 @@
 	<item drawable="pismowitewer" />
 	<item drawable="pixbit" />
 	<item drawable="pixel_filter" />
+	<item drawable="pixel_ims" />
 	<item drawable="pixel_tips" />
 	<item drawable="pixelartist" />
 	<item drawable="pixelator" />
@@ -3979,6 +3982,7 @@
 	<item drawable="romeo" />
 	<item drawable="romote" />
 	<item drawable="ronin_wallet" />
+	<item drawable="root_booster" />
 	<item drawable="rootexplorer" />
 	<item drawable="rootlesspixellauncher" />
 	<item drawable="rosetta_stone" />
@@ -4479,6 +4483,7 @@
 	<item drawable="svtplay" />
 	<item drawable="swapcard" />
 	<item drawable="swappa" />
+	<item drawable="swapper_configuration" />
 	<item drawable="sweatcoin" />
 	<item drawable="swedbank" />
 	<item drawable="sweech" />

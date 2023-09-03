@@ -1,0 +1,21 @@
+<resources>
+
+	<!-- Block This! -->
+	<item component="ComponentInfo{com.savageorgiev.blockthis/com.savageorgiev.blockthis.MainActivity}" drawable="block_this_" />
+
+	<!-- Pixel IMS -->
+	<item component="ComponentInfo{dev.bluehouse.enablevolte/dev.bluehouse.enablevolte.HomeActivity}" drawable="pixel_ims" />
+
+	<!-- ReVanced Extended -->
+	<item component="ComponentInfo{app.rvx.android.youtube/com.google.android.youtube.app.honeycomb.ShellHomeActivity}" drawable="revanced_extended" />
+
+	<!-- Root Booster -->
+	<item component="ComponentInfo{com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity}" drawable="root_booster" />
+
+	<!-- RVX Manager -->
+	<item component="ComponentInfo{app.rvx.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="rvx_manager" />
+
+	<!-- Swapper Configuration -->
+	<item component="ComponentInfo{org.azasoft.free.swapper/org.azasoft.free.swapper.SwapperConfigurationActivity}" drawable="swapper_configuration" />
+
+</resources>

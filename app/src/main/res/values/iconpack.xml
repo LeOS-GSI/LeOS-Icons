@@ -551,6 +551,7 @@
 	    <item>blocket</item>
 	    <item>blockinger</item>
 	    <item>block_buster</item>
+	    <item>block_this_</item>
 	    <item>blogger</item>
 	    <item>blokada</item>
 	    <item>blokada_alt</item>
@@ -2428,6 +2429,7 @@
 	    <item>leo</item>
 	    <item>leon_urlcleaner</item>
 	    <item>leosdroid</item>
+	    <item>leosium</item>
 	    <item>leos_camera</item>
 	    <item>leos_chatgpt</item>
 	    <item>leos_contacts</item>
@@ -2436,11 +2438,11 @@
 	    <item>leos_duckduckgo</item>
 	    <item>leos_duolingo</item>
 	    <item>leos_files</item>
+	    <item>leos_fone</item>
 	    <item>leos_launcher12</item>
 	    <item>leos_matrix</item>
 	    <item>leos_messenger</item>
 	    <item>leos_music</item>
-	    <item>leos_fone</item>
 	    <item>leos_sayboard</item>
 	    <item>leos_sms</item>
 	    <item>leos_translate</item>
@@ -3570,6 +3572,7 @@
 	    <item>pixels</item>
 	    <item>pixelwheels</item>
 	    <item>pixel_filter</item>
+	    <item>pixel_ims</item>
 	    <item>pixel_tips</item>
 	    <item>pixez</item>
 	    <item>pixiv</item>
@@ -3897,6 +3900,7 @@
 	    <item>ronin_wallet</item>
 	    <item>rootexplorer</item>
 	    <item>rootlesspixellauncher</item>
+	    <item>root_booster</item>
 	    <item>rosetta_stone</item>
 	    <item>rospikes</item>
 	    <item>rossmann</item>
@@ -4391,6 +4395,7 @@
 	    <item>svtplay</item>
 	    <item>swapcard</item>
 	    <item>swappa</item>
+	    <item>swapper_configuration</item>
 	    <item>sweatcoin</item>
 	    <item>swedbank</item>
 	    <item>sweech</item>

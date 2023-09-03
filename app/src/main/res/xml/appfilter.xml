@@ -3842,6 +3842,9 @@
     <!-- Blockinger -->
     <item component="ComponentInfo{org.blockinger.game/org.blockinger.game.activities.MainActivity}" drawable="blockinger" />
 
+    <!-- Block This! -->
+    <item component="ComponentInfo{com.savageorgiev.blockthis/com.savageorgiev.blockthis.MainActivity}" drawable="block_this_" />
+
     <!-- Blogger -->
     <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity}" drawable="blogger" />
     <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.ApplicationActivity}" drawable="blogger" />
@@ -15817,6 +15820,9 @@
     <!-- LeOS-Droid -->
     <item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
 
+    <!-- LeOS -->
+    <item component="ComponentInfo{com.leos.ium/com.google.android.apps.chrome.Main}" drawable="leosium" />
+
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
 
@@ -22819,6 +22825,9 @@
     <!-- Pixel Filter -->
     <item component="ComponentInfo{screen.dimmer.pixelfilter/screen.dimmer.pixelfilter.MainActivity}" drawable="pixel_filter" />
 
+    <!-- Pixel IMS -->
+    <item component="ComponentInfo{dev.bluehouse.enablevolte/dev.bluehouse.enablevolte.HomeActivity}" drawable="pixel_ims" />
+
     <!-- PixelLab-->
     <item component="ComponentInfo{com.imaginstudio.imagetools.pixellab/com.imaginstudio.imagetools.pixellab.MainActivity}" drawable="pixellab" />
 
@@ -23921,6 +23930,9 @@
 
     <!-- Ronin Wallet -->
     <item component="ComponentInfo{com.skymavis.genesis/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="ronin_wallet" />
+
+    <!-- Root Booster -->
+    <item component="ComponentInfo{com.ram.memory.booster.cpu.saver/com.ram.memory.booster.cpu.saver.MainActivity}" drawable="root_booster" />
 
     <!-- Root Explorer -->
     <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="rootexplorer" />
@@ -26220,6 +26232,9 @@
 
     <!-- Swappa -->
     <item component="ComponentInfo{com.swappa.app.market/com.swappa.app.market.NavActivity}" drawable="swappa" />
+
+    <!-- Swapper Configuration -->
+    <item component="ComponentInfo{org.azasoft.free.swapper/org.azasoft.free.swapper.SwapperConfigurationActivity}" drawable="swapper_configuration" />
 
     <!-- Sweatcoin -->
     <item component="ComponentInfo{in.sweatco.app/com.app.sweatcoin.ui.activities.RootActivity}" drawable="sweatcoin" />

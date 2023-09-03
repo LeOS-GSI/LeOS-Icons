@@ -2,5 +2,8 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
-	<item drawable="leos_fone" />
+	<item drawable="block_this_" />
+	<item drawable="pixel_ims" />
+	<item drawable="root_booster" />
+	<item drawable="swapper_configuration" />
 </resources>

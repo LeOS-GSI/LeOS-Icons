@@ -7,12 +7,13 @@ android {
         applicationId "com.leos.icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 104
-        versionName '1.6.3'
-        multiDexEnabled true
+        versionCode 112
+        versionName '1.6.4.1'
+        multiDexEnabled false
 
         // Naming app bundles
         setArchivesBaseName("${parent.name}-v${versionName}")
+        signingConfig signingConfigs.debug
 
     }
 
@@ -20,7 +21,7 @@ android {
         release {
             minifyEnabled true
             debug {
-                applicationIdSuffix '.debug'
+                applicationIdSuffix '.release'
             }
         }
     }
@@ -45,13 +46,15 @@ android {
         targetCompatibility JavaVersion.VERSION_11
     }
 
-    lintOptions {
-        checkReleaseBuilds false
-        abortOnError false
-    }
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.leos.icons'
+    lint {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+    buildToolsVersion '30.0.0'
 }
 
 dependencies {
