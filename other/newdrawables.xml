@@ -2,8 +2,17 @@
 <resources>
 	<version>1</version>
 	<category title="New" />
+<<<<<<< HEAD
+	<item drawable="cache_cleaner" />
+	<item drawable="daily_pill" />
+	<item drawable="hidrive" />
+	<item drawable="kontakte" />
+	<item drawable="localsend" />
+	<item drawable="metager_suche" />
+=======
 	<item drawable="block_this_" />
 	<item drawable="pixel_ims" />
 	<item drawable="root_booster" />
 	<item drawable="swapper_configuration" />
+>>>>>>> origin/main
 </resources>

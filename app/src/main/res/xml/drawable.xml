@@ -893,6 +893,7 @@
 	<item drawable="ca_va_ou" />
 	<item drawable="cabify" />
 	<item drawable="cabinet" />
+	<item drawable="cache_cleaner" />
 	<item drawable="cainiao_wireless" />
 	<item drawable="caixa_tem" />
 	<item drawable="cajaarena" />
@@ -1219,6 +1220,7 @@
 	<item drawable="d_point" />
 	<item drawable="daedalus" />
 	<item drawable="dagger" />
+	<item drawable="daily_pill" />
 	<item drawable="dailyart" />
 	<item drawable="dailydozen" />
 	<item drawable="dailypic" />
@@ -2113,6 +2115,7 @@
 	<item drawable="hide_my_applist" />
 	<item drawable="hidedroid" />
 	<item drawable="hidemevpn" />
+	<item drawable="hidrive" />
 	<item drawable="hieduscientificcalculator" />
 	<item drawable="hiit" />
 	<item drawable="hikar" />
@@ -2485,6 +2488,7 @@
 	<item drawable="koleo" />
 	<item drawable="koler" />
 	<item drawable="komoot" />
+	<item drawable="kontakte" />
 	<item drawable="kontrast" />
 	<item drawable="koofr" />
 	<item drawable="kopieid" />
@@ -2700,6 +2704,7 @@
 	<item drawable="lms" />
 	<item drawable="lnsfrskringar" />
 	<item drawable="localbitcoins" />
+	<item drawable="localsend" />
 	<item drawable="location_share" />
 	<item drawable="locationprivacy" />
 	<item drawable="lock" />
@@ -2858,6 +2863,7 @@
 	<item drawable="messaging" />
 	<item drawable="met_office" />
 	<item drawable="metadataremover" />
+	<item drawable="metager_suche" />
 	<item drawable="metamask" />
 	<item drawable="meteo" />
 	<item drawable="meteociel" />

@@ -665,6 +665,7 @@
 	    <item>c6bank</item>
 	    <item>cabify</item>
 	    <item>cabinet</item>
+	    <item>cache_cleaner</item>
 	    <item>cainiao_wireless</item>
 	    <item>caixa_tem</item>
 	    <item>cajaarena</item>
@@ -1088,6 +1089,7 @@
 	    <item>dailydozen</item>
 	    <item>dailypic</item>
 	    <item>dailytube</item>
+	    <item>daily_pill</item>
 	    <item>dak</item>
 	    <item>dancerail3</item>
 	    <item>dankchat</item>
@@ -1988,6 +1990,7 @@
 	    <item>hidedroid</item>
 	    <item>hidemevpn</item>
 	    <item>hide_my_applist</item>
+	    <item>hidrive</item>
 	    <item>hieduscientificcalculator</item>
 	    <item>hiit</item>
 	    <item>hikar</item>
@@ -2353,6 +2356,7 @@
 	    <item>koleo</item>
 	    <item>koler</item>
 	    <item>komoot</item>
+	    <item>kontakte</item>
 	    <item>kontrast</item>
 	    <item>koofr</item>
 	    <item>kopieid</item>
@@ -2618,6 +2622,7 @@
 	    <item>lms</item>
 	    <item>lnsfrskringar</item>
 	    <item>localbitcoins</item>
+	    <item>localsend</item>
 	    <item>locationprivacy</item>
 	    <item>location_share</item>
 	    <item>lock</item>
@@ -2774,6 +2779,7 @@
 	    <item>messages</item>
 	    <item>messaging</item>
 	    <item>metadataremover</item>
+	    <item>metager_suche</item>
 	    <item>metamask</item>
 	    <item>meteo</item>
 	    <item>meteociel</item>

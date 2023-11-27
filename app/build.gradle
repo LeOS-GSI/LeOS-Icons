@@ -7,9 +7,15 @@ android {
         applicationId "com.leos.icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
+<<<<<<< HEAD
+        versionCode 105
+        versionName '1.6.5.1'
+        multiDexEnabled true
+=======
         versionCode 112
         versionName '1.6.4.1'
         multiDexEnabled false
+>>>>>>> origin/main
 
         // Naming app bundles
         setArchivesBaseName("${parent.name}-v${versionName}")
