@@ -2585,6 +2585,9 @@
     <item component="ComponentInfo{com.aurora.services/com.aurora.services.view.ui.activities.AuroraActivity}" drawable="aurora_services" />
 
     <!-- Aurora Store -->
+    <item component="ComponentInfo{com.aurora.store/com.aurora.store.MainActivity}" drawable="aurora_store" />
+
+    <!-- Aurora Store -->
     <item component="ComponentInfo{com.dragons.aurora/com.dragons.aurora.activities.AuroraActivity}" drawable="aurora_store" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurora_store" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}" drawable="aurora_store" />
@@ -3623,6 +3626,9 @@
     <!-- Bitpanda -->
     <item component="ComponentInfo{com.bitpanda.bitpanda/com.bitpanda.bitpanda.ui.splash.SplashscreenActivity}" drawable="bitpanda" />
     <item component="ComponentInfo{com.bitpanda.bitpanda/com.bitpanda.feature.onboarding.authentication.impl.ui.RoutingActivity}" drawable="bitpanda" />
+
+    <!-- BitPanda -->
+    <item component="ComponentInfo{com.bitpanda/com.bitpanda.MainActivity}" drawable="bitpanda" />
 
     <!-- BitPay -->
     <item component="ComponentInfo{com.bitpay.wallet/com.bitpay.wallet.MainActivity}" drawable="bitpay" />
@@ -15817,6 +15823,9 @@
     <!-- LeOS-Droid -->
     <item component="ComponentInfo{com.leos.droidify/com.leos.droidify.MainActivity}" drawable="leos_droid" />
 
+    <!-- LeOS -->
+    <item component="ComponentInfo{com.leos.ium/com.google.android.apps.chrome.Main}" drawable="leosium" />
+
     <!-- LeOS Launcher -->
     <item component="ComponentInfo{com.saggitt.omega.debug/com.saggitt.omega.OmegaLauncher}" drawable="leos_launcher" />
 
@@ -21190,6 +21199,9 @@
 
     <!-- OpenDocument Reader -->
     <item component="ComponentInfo{at.tomtasche.reader/at.tomtasche.reader.ui.activity.MainActivity}" drawable="opendocument_reader" />
+
+    <!-- OpenEUICC -->
+    <item component="ComponentInfo{im.angry.openeuicc/im.angry.openeuicc.ui.MainActivity}" drawable="openeuicc" />
 
     <!-- Open Flashlight -->
     <item component="ComponentInfo{io.github.sanbeg.flashlight/io.github.sanbeg.flashlight.FlashLightActivity}" drawable="openflashlight" />
@@ -26994,6 +27006,9 @@
     <item component="ComponentInfo{com.arna.translate/com.arna.translate.MainActivity}" drawable="translate" />
 
     <!-- Translate You -->
+    <item component="ComponentInfo{com.bnyro.translate/com.bnyro.translate.ui.MainActivity}" drawable="translate_you" />
+
+    <!-- Translate You -->
     <item component="ComponentInfo{com.bnyro.translate.nf/com.bnyro.translate.ui.activities.MainActivity}" drawable="translate_you" />
     <item component="ComponentInfo{com.bnyro.translate/com.bnyro.translate.ui.activities.MainActivity}" drawable="translate_you" />
 
@@ -27943,6 +27958,9 @@
     <!-- WatchCheck -->
     <item component="ComponentInfo{de.uhrenbastler.watchcheck/de.uhrenbastler.watchcheck.MainActivity}" drawable="watchcheck" />
 
+    <!-- Watch Droid Phone -->
+    <item component="ComponentInfo{com.lumaticsoft.watchdroidphone/com.lumaticsoft.watchdroidphone.WDPP}" drawable="watch_droid_phone" />
+
     <!-- WatchMaker -->
     <item component="ComponentInfo{slide.watchFrenzy/slide.watchFrenzy.CheckPermissionsActivity}" drawable="watchmaker" />
 
@@ -28545,6 +28563,9 @@
     <!-- Youdao Note -->
     <item component="ComponentInfo{com.youdao.note/com.youdao.note.splash.SplashActivity}" drawable="youdao_note" />
 
+    <!-- You Have Mail -->
+    <item component="ComponentInfo{dev.lbeernaert.youhavemail/dev.lbeernaert.youhavemail.MainActivity}" drawable="you_have_mail" />
+
     <!-- Your Battery Drainer -->
     <item component="ComponentInfo{mertcancucen.com.YourBatteryDrainer/mertcancucen.com.batterydrain.MainActivity}" drawable="yourbatterydrainer" />
 
@@ -28761,8 +28782,5 @@
 
     <!-- ﾆｺﾆｺ動画 -->
     <item component="ComponentInfo{jp.nicovideo.android/jp.nicovideo.android.StartupActivity}" drawable="niconico" />
-
-	<!-- LeOS -->
-	<item component="ComponentInfo{com.leos.ium/com.google.android.apps.chrome.Main}" drawable="leosium" />
 
 </resources>

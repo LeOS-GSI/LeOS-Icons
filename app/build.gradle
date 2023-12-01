@@ -7,15 +7,9 @@ android {
         applicationId "com.leos.icons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-<<<<<<< HEAD
-        versionCode 105
-        versionName '1.6.5.1'
-        multiDexEnabled true
-=======
         versionCode 112
-        versionName '1.6.4.1'
+        versionName '1.6.5.2'
         multiDexEnabled false
->>>>>>> origin/main
 
         // Naming app bundles
         setArchivesBaseName("${parent.name}-v${versionName}")
@@ -25,7 +19,6 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled true
             debug {
                 applicationIdSuffix '.release'
             }
@@ -38,6 +31,7 @@ android {
         dark {
             dimension "variant"
             resValue "string", "app_name", "LeOS-Icons"
+            minSdk 31
         }
     }
 
@@ -60,7 +54,6 @@ android {
         abortOnError false
         checkReleaseBuilds false
     }
-    buildToolsVersion '30.0.0'
 }
 
 dependencies {
