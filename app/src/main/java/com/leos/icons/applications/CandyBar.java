@@ -1,6 +1,8 @@
 package com.leos.icons.applications;
 
 import android.content.pm.PackageManager;
+import com.leos.icons.R;
+
 
 import androidx.annotation.NonNull;
 
@@ -8,6 +10,24 @@ import candybar.lib.applications.CandyBarApplication;
 import candybar.lib.items.Request;
 
 public class CandyBar extends CandyBarApplication {
+
+    // TODO: Remove `/*` and `*/` below to Enable OneSignal
+    /*
+    @Override
+    public void onCreate() {
+        super.onCreate();
+
+        // OneSignal Initialization
+        OneSignal.initWithContext(this);
+        OneSignal.setAppId("YOUR_ONESIGNAL_APP_ID_HERE");
+    }
+    */
+
+    @NonNull
+    @Override
+    public Class<?> getDrawableClass() {
+        return R.drawable.class;
+    }
 
 
     @NonNull
